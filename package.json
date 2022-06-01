@@ -8,7 +8,7 @@
     "clean": "rm -rf dist && rm -rf .cache",
     "start": "parcel ./*.html",
     "build": "parcel build ./*.html"
-  }, 
+  },
   "dependencies": {
     "detect-gpu": "4.0.23",
     "jsm": "^0.0.1",
